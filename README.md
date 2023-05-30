@@ -1,8 +1,8 @@
 # Ariel Riello
 
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](riello.programmer@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-gustavo-frutuoso-riello-962217266/)
-[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/riello_programmer?tab=skills)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-gustavo-frutuoso-riello/)
+[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/riello_programmer)
 
 ---
 
