@@ -38,7 +38,7 @@ CodeCamps Concluidos:
 
 ---
 
-## 💾 Mapeamento Repositório - [Documentação de Estudos](https://github.com/ArielRiello/Documentacao_de_Estudos)
+## 💾 Mapeamento de Estudos - [Documentação de Estudos](https://github.com/ArielRiello/Documentacao_de_Estudos)
 
 * Chat_GPT / Google / YouTube / Sites de Terceiros
     * Python
@@ -65,5 +65,15 @@ CodeCamps Concluidos:
             * Formação Python Developer
                 * [Repositório Próprio](https://github.com/ArielRiello/Formacao_Python_Developer_DIO)
             * Introducao_a_programação_com_Python_DIO
+
+---
+
+## 🧪 Repositórios de Projetos
+
+* Java
+    * [Lista_de_Animes](https://github.com/ArielRiello/Projeto_Lista_de_Animes_Java)
+
+* Python
+    * [Bot_DIscord_SoL](https://github.com/ArielRiello/Discord_Bot_SoL)
 
 ---
