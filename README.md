@@ -6,7 +6,7 @@
 
 ---
 
-![Ariel Riello's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielRiello&show_icons=true&theme=tokyonight)
+[![Ariel Riello's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielRiello&show_icons=true&theme=tokyonight&hide=['issues','prs','contribs','stars'])](https://github.com/ArielRiello?tab=commits)
 
 ---
 
