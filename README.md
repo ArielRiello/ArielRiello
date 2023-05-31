@@ -37,3 +37,33 @@ CodeCamps Concluidos:
 </div>
 
 ---
+
+## 💾 Mapeamento Repositório - [Documentação de Estudos](https://github.com/ArielRiello/Documentacao_de_Estudos)
+
+* Chat_GPT / Google / YouTube / Sites de Terceiros
+    * Python
+        * Pandas
+            * Manipulação de Dados em Python/Pandas - [@xavecoding](https://www.youtube.com/@xavecoding)
+
+
+* Plataformas_de_cursos
+    * DIO
+        * C
+            * CodeMiners-2nd Fortaleza dos CodeMiners
+                * [Repositório Próprio](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
+
+        * Java
+            * Bootcampo Banco PAN Java Developer 
+                * [Repositório Próprio](https://github.com/ArielRiello/Bootcamp_Banco_PAN_Java_Developer)
+
+        * JavaScript
+            * CodeCamp - O Vale do Jacaranda Dourado 
+                * [Repositório Próprio](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
+            
+        * Python
+            * Conhecendo_a_Linguagem_de_Programacao_Python_DIO
+            * Formação Python Developer
+                * [Repositório Próprio](https://github.com/ArielRiello/Formacao_Python_Developer_DIO)
+            * Introducao_a_programação_com_Python_DIO
+
+---
