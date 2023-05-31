@@ -17,16 +17,16 @@
 
 Formação em andamento:
 
-<img src="https://hermes.dio.me/tracks/cover/ac0e208f-9ab9-471d-84ae-0107cfd2156a.png" width="100"> 
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)
 
 
 Bootcamps Concluidos:
 
-<img src="https://hermes.dio.me/tracks/cover/e91564c7-95fb-430a-a60c-0658f5843a72.png" width="100">
+[<img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70">](https://www.dio.me/certificate/4233EB4D/share)
 
 CodeCamps Concluidos:
 
-<img src="https://hermes.dio.me/tracks/cover/fc9a4581-3a4d-48e8-91c1-65311d0e8709.png" width="100"><img src="https://hermes.dio.me/tracks/cover/74817439-ef63-4619-9b46-736d314cae26.png" width="100">
+[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](https://www.dio.me/certificate/D7B1982C/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="60">](https://www.dio.me/certificate/AC2DBFF4/share)
 
 ---
 
