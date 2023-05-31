@@ -26,8 +26,7 @@ Bootcamps Concluidos:
 
 CodeCamps Concluidos:
 
-<img src="https://hermes.dio.me/tracks/cover/fc9a4581-3a4d-48e8-91c1-65311d0e8709.png" width="100">
-<img src="https://hermes.dio.me/tracks/cover/74817439-ef63-4619-9b46-736d314cae26.png" width="100">
+<img src="https://hermes.dio.me/tracks/cover/fc9a4581-3a4d-48e8-91c1-65311d0e8709.png" width="100"><img src="https://hermes.dio.me/tracks/cover/74817439-ef63-4619-9b46-736d314cae26.png" width="100">
 
 ---
 
