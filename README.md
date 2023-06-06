@@ -1,9 +1,5 @@
 # ⛩️ Ariel Riello ⛩️ 
 
-### 🏷️ Sobre mim:
-
-*Atualmente migrando de área para programação, ainda em processo de aprendizado uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ariel-gustavo-frutuoso-riello-962217266/)
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/riello_programmer?tab=skills)
 <a href="mailto:riello.programmer@gmail.com">
@@ -12,7 +8,15 @@
 
 ---
 
-Formação em andamento:
+### 🏷️ Sobre mim:
+
+*Atualmente migrando de área para programação, ainda em processo de aprendizado uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
+
+
+
+---
+
+### 🎓 Formação em andamento:
 
 Python Developer
 
@@ -40,7 +44,7 @@ Cursos Concluidos:
 
 ---
 
-## 💾 Mapeamento de Estudos - [Documentação de Estudos](https://github.com/ArielRiello/Documentacao_de_Estudos)
+## 💾 Mapeamento de Estudos  - [Documentação de Estudos](https://github.com/ArielRiello/Documentacao_de_Estudos)
 
 * Chat_GPT / Google / YouTube / Sites de Terceiros
     * Python
@@ -70,7 +74,7 @@ Cursos Concluidos:
 
 ---
 
-## 🧪 Repositórios de Projetos
+## ⚙️ Repositórios de Projetos
 
 * Java
     * [Lista_de_Animes](https://github.com/ArielRiello/Projeto_Lista_de_Animes_Java)
@@ -79,3 +83,4 @@ Cursos Concluidos:
     * [Bot_DIscord_SoL](https://github.com/ArielRiello/Discord_Bot_SoL)
 
 ---
+
