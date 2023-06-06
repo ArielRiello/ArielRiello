@@ -4,9 +4,6 @@
 
 *Atualmente migrando de área para programação, ainda em processo de aprendizado uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
----
-
-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ariel-gustavo-frutuoso-riello-962217266/)
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/riello_programmer?tab=skills)
 <a href="mailto:riello.programmer@gmail.com">
@@ -17,8 +14,9 @@
 
 Formação em andamento:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)
+Python Developer
 
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)
 
 Bootcamps Concluidos:
 
@@ -30,15 +28,7 @@ CodeCamps Concluidos:
 
 Cursos Concluidos: 
 
-<p>
-  <a href="https://www.coursera.org/account/accomplishments/verify/QY5GC5ZYNFK8">
-    <picture>
-      <source srcset="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/logo_usp_branco.png" media="(prefers-color-scheme: dark)">
-      <source srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/8f/4b5a90378011e5a61ebde0011ec7cd/logo_USP_quadrado---C_pia.png?auto=format%2Ccompress&dpr=1&w=80&h=80" media="(prefers-color-scheme: light)">
-      <img src="https://www.coursera.org/account/accomplishments/verify/QY5GC5ZYNFK8" alt="Certificate Image" width="55">
-    </picture>
-  </a>
-</p>
+[<img src="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/logo_usp_branco.png" width="70">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
 
 ---
 
