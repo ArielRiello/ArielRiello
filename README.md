@@ -8,7 +8,7 @@
 
 ---
 
-### 🏷️ Sobre mim:
+## 🏷️ Sobre mim:
 
 *Atualmente migrando de área para programação, ainda em processo de aprendizado uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🎓 Certficados:
+## 🎓 Certficados:
 
 Formações Concluidas:
 
