@@ -28,6 +28,19 @@ CodeCamps Concluidos:
 
 [<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](https://www.dio.me/certificate/D7B1982C/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="60">](https://www.dio.me/certificate/AC2DBFF4/share)
 
+Cursos Concluidos: 
+
+<p>
+  <a href="https://www.coursera.org/account/accomplishments/verify/QY5GC5ZYNFK8">
+    <picture>
+      <source srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/8f/4b5a90378011e5a61ebde0011ec7cd/logo_USP_quadrado---C_pia.png?auto=format%2Ccompress&dpr=1&w=80&h=80" media="(prefers-color-scheme: dark)">
+      <source srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/partnerLogos/svg/usp.svg?auto=format%2Ccompress&dpr=1&h=70" media="(prefers-color-scheme: light)">
+      <img src="https://www.coursera.org/account/accomplishments/verify/QY5GC5ZYNFK8" alt="Certificate Image" width="55">
+    </picture>
+  </a>
+</p>
+
+
 ---
 
 <div style="width: 200px;">
