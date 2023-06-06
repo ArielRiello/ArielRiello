@@ -33,13 +33,12 @@ Cursos Concluidos:
 <p>
   <a href="https://www.coursera.org/account/accomplishments/verify/QY5GC5ZYNFK8">
     <picture>
-      <source srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/8f/4b5a90378011e5a61ebde0011ec7cd/logo_USP_quadrado---C_pia.png?auto=format%2Ccompress&dpr=1&w=80&h=80" media="(prefers-color-scheme: dark)">
-      <source srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/partnerLogos/svg/usp.svg?auto=format%2Ccompress&dpr=1&h=70" media="(prefers-color-scheme: light)">
+      <source srcset="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/logo_usp_branco.png" media="(prefers-color-scheme: dark)">
+      <source srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/8f/4b5a90378011e5a61ebde0011ec7cd/logo_USP_quadrado---C_pia.png?auto=format%2Ccompress&dpr=1&w=80&h=80" media="(prefers-color-scheme: light)">
       <img src="https://www.coursera.org/account/accomplishments/verify/QY5GC5ZYNFK8" alt="Certificate Image" width="55">
     </picture>
   </a>
 </p>
-
 
 ---
 
