@@ -32,7 +32,7 @@ CodeCamps Concluidos:
 
 Cursos Concluidos: 
 
-[<img src="https://scs.usp.br/identidadevisual/wp-content/uploads/2022/08/logo_usp_branco.png" width="70">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
+[<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="70">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
 
 ---
 
