@@ -16,7 +16,7 @@
 
 ---
 
-## 🎓 Certficados:
+## 🎓 Certificados:
 
 Formações Concluidas:
 
