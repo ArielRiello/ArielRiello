@@ -10,8 +10,6 @@
 
 *Atualmente migrando de área para programação, ainda em processo de aprendizado uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
----
-
 ## 🎓 Certificados:
 
 Formações em andamento:
@@ -29,16 +27,6 @@ CodeCamps Concluidos:
 Cursos Concluidos: 
 
 [<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="70">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
-
----
-
-<div style="width: 200px;">
-  <a href="https://github.com/ArielRiello/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielRiello&langs_count=8" alt="Top Langs" />
-  </a>
-</div>
-
----
 
 ## 💾 Mapeamento de Estudos  - [Documentação de Estudos](https://github.com/ArielRiello/Documentacao_de_Estudos)
 
@@ -68,8 +56,6 @@ Cursos Concluidos:
                 * [Repositório Próprio](https://github.com/ArielRiello/Formacao_Python_Developer_DIO)
             * Introducao_a_programação_com_Python_DIO
 
----
-
 ## ⚙️ Repositórios de Projetos
 
 * Java
@@ -77,6 +63,12 @@ Cursos Concluidos:
 
 * Python
     * [Bot_DIscord_SoL](https://github.com/ArielRiello/Discord_Bot_SoL)
+
+<div style="width: 200px;">
+  <a href="https://github.com/ArielRiello/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielRiello&langs_count=8" alt="Top Langs" />
+  </a>
+</div>
 
 ---
 
