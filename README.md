@@ -12,14 +12,9 @@
 
 ## 💻 Familiaridade com:
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MRXwUmKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Python-14354C%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite">
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MRXwUmKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Python-14354C%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-<img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" width="50">
+<img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" width="50">
 
 ## 🎓 Certificados:
 
