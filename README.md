@@ -1,3 +1,4 @@
+
 # ⛩️ Ariel Riello ⛩️ 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ariel-gustavo-frutuoso-riello-962217266/)
@@ -8,7 +9,15 @@
 
 ## 🏷️ Sobre mim:
 
-*Atualmente migrando de área para programação, ainda em processo de aprendizado uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
+Atualmente Estagiário de Desenvolvimento na empresa:
+
+[<img src="https://media.licdn.com/dms/image/C4D1BAQHJPJlrdUd4WA/company-background_10000/0/1596557554455?e=1691352000&v=beta&t=37TWZZG41ZI8qNZ4NWCqMOfji31b85r1a9tJWdihn80" width="300">](https://www.inovacoderfid.com)
+
+E cursando de Tecnologia da Informação (TI) na universidade:
+
+[<img src="https://univesp.br/sites/58f6506869226e9479d38201/theme/images/logo-univesp.png?1643802139" width="160">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)
+
+*Uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
 ## 💻 Familiaridade com:
 
@@ -20,7 +29,7 @@
 
 Formações em andamento:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)[<img src="https://hermes.dio.me/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" width="67">](https://web.dio.me/track/formacao-python-developer)
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" width="65">](https://web.dio.me/track/formacao-sql-db-specialist)
 
 Bootcamps Concluidos:
 
@@ -34,32 +43,25 @@ Cursos Concluidos:
 
 [<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="70">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
 
-## 💾 Mapeamento de Estudos  - [Documentação de Estudos](https://github.com/ArielRiello/Documentacao_de_Estudos)
+## 💾 Mapeamento de Repositórios 
 
-* Chat_GPT / Google / YouTube / Sites de Terceiros
-    * Python
-        * Pandas
-            * Manipulação de Dados em Python/Pandas - [@xavecoding](https://www.youtube.com/@xavecoding)
+* Banco de Dados
+    * SQL - Em construção...
 
+* C/C++
+    * CodeMiners-2nd Fortaleza dos CodeMiners - [Repositório](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
 
-* Plataformas_de_cursos
-    * DIO
-        * C
-            * CodeMiners-2nd Fortaleza dos CodeMiners - [Repositório Próprio](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
+* Java
+    * Bootcampo Banco PAN Java Developer - [Repositório](https://github.com/ArielRiello/Bootcamp_Banco_PAN_Java_Developer)
 
-        * Java
-            * Bootcampo Banco PAN Java Developer - [Repositório Próprio](https://github.com/ArielRiello/Bootcamp_Banco_PAN_Java_Developer)
+* JavaScript
+    * CodeCamp - O Vale do Jacaranda Dourado - [Repositório](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
 
-        * JavaScript
-            * CodeCamp - O Vale do Jacaranda Dourado - [Repositório Próprio](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
-
-        * Power BI
-            * Formação Power BI Analyst - [Repositório Próprio](https://github.com/ArielRiello/Formacao_Power_BI_Analyst)
+* Power BI
+    * Formação Power BI Analyst - [Repositório](https://github.com/ArielRiello/Formacao_Power_BI_Analyst)
             
-        * Python
-            * Conhecendo_a_Linguagem_de_Programacao_Python_DIO
-            * Formação Python Developer - [Repositório Próprio](https://github.com/ArielRiello/Formacao_Python_Developer_DIO)
-            * Introducao_a_programação_com_Python_DIO
+* Python
+    * Formação Python Developer - [Repositório ](https://github.com/ArielRiello/Formacao_Python_Developer_DIO)
 
 ## ⚙️ Repositórios de Projetos
 
