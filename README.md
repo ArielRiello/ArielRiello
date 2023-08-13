@@ -54,11 +54,11 @@ Bootcamps Concluidos:
 
 CodeCamps Concluidos:
 
-[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](https://www.dio.me/certificate/D7B1982C/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="100">](https://www.dio.me/certificate/AC2DBFF4/share)
+[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](https://www.dio.me/certificate/D7B1982C/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="80">](https://www.dio.me/certificate/AC2DBFF4/share)
 
 Cursos Concluidos: 
 
-[<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="48">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
+[<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="100">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
 
 ## ⚙️ Repositórios de Projetos
 
