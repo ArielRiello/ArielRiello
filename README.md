@@ -37,7 +37,7 @@ Frameworks, Plataformas e Outros
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/120px-2023_Obsidian_logo.svg.png" width="50" title="Obsidian">](https://obsidian.md)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=256" width="50" title="GitHub">]()
 [<img src="https://www.gitkraken.com/wp-content/uploads/2021/12/gitkraken-icon-stencil-color.svg" width="50" title="GitKraken">](https://www.gitkraken.com)
-[<img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" width="80" title="Bubble.io">](https://www.java.com/pt-BR/)
+[<img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" width="80" title="Bubble.io">](https://bubble.io/home)
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/terminal-4887951-4072487.png?f=avif&w=256" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-3050920-2538288.png?f=avif&w=256" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linux-2752134-2284951.png?f=avif&w=256" width="50" title="Linux">](https://www.linux.org)
