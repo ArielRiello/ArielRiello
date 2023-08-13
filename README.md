@@ -62,23 +62,23 @@ Cursos Concluidos:
 
 ## 💾 Mapeamento de Repositórios 
 
-* Banco de Dados
-    * SQL - Em construção...
+Banco de Dados
+* SQL - Em construção...
 
-* C/C++
-    * CodeMiners-2nd Fortaleza dos CodeMiners - [Repositório](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
+C/C++
+* CodeMiners-2nd Fortaleza dos CodeMiners - [Repositório](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
 
-* Java
-    * Bootcampo Banco PAN Java Developer - [Repositório](https://github.com/ArielRiello/Bootcamp_Banco_PAN_Java_Developer)
+Java
+* Bootcampo Banco PAN Java Developer - [Repositório](https://github.com/ArielRiello/Bootcamp_Banco_PAN_Java_Developer)
 
-* JavaScript
-    * CodeCamp - O Vale do Jacaranda Dourado - [Repositório](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
+JavaScript
+* CodeCamp - O Vale do Jacaranda Dourado - [Repositório](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
 
-* Power BI
-    * Formação Power BI Analyst - [Repositório](https://github.com/ArielRiello/Formacao_Power_BI_Analyst)
+Power BI
+* Formação Power BI Analyst - [Repositório](https://github.com/ArielRiello/Formacao_Power_BI_Analyst)
             
-* Python
-    * Formação Python Developer - [Repositório ](https://github.com/ArielRiello/Formacao_Python_Developer_DIO)
+Python
+* Formação Python Developer - [Repositório ](https://github.com/ArielRiello/Formacao_Python_Developer_DIO)
 
 ## ⚙️ Repositórios de Projetos
 
