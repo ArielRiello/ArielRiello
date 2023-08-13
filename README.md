@@ -23,24 +23,24 @@ E cursando de Tecnologia da Informação (TI) na universidade:
 
 Linguagens de Programação e Marcação
 
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=avif&w=256" width="30" title="Python">](https://www.python.org)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-22-225997.png?f=avif&w=256" width="30" title="Java">](www.java.com)
-[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=avif&w=256" width="30" title="Java Script">](https://www.javascript.com)
-[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/markdown-4887934-4072470.png?f=avif&w=256" width="30" title="Markdown">](https://www.markdownguide.org)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-html-file-2330569-1950410.png?f=avif&w=256" width="30" title="HTML">](https://html.com)
-[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/css-file-2330572-1950413.png?f=avif&w=256" width="30" title="CSS">](https://www.css3.com)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=avif&w=256" width="50" title="Python">](https://www.python.org)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-22-225997.png?f=avif&w=256" width="50" title="Java">](www.java.com)
+[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=avif&w=256" width="50" title="Java Script">](https://www.javascript.com)
+[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/markdown-4887934-4072470.png?f=avif&w=256" width="50" title="Markdown">](https://www.markdownguide.org)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-html-file-2330569-1950410.png?f=avif&w=256" width="50" title="HTML">](https://html.com)
+[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/css-file-2330572-1950413.png?f=avif&w=256" width="50" title="CSS">](https://www.css3.com)
 
 Frameworks, Plataformas e Outros
 
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-3251603-2724650.png?f=avif&w=256" width="30" title="VS Code">](https://code.visualstudio.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-excel-2-190764.png?f=avif&w=256" width="30" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/120px-2023_Obsidian_logo.svg.png" width="30" title="Obsidian">](https://obsidian.md)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=256" width="30" title="GitHub">]()
-[<img src="https://www.gitkraken.com/wp-content/uploads/2021/12/gitkraken-icon-stencil-color.svg" width="30" title="GitKraken">](https://www.gitkraken.com)
-[<img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" width="50" title="Bubble.io">](bubble.io)
-[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/terminal-4887951-4072487.png?f=avif&w=256" width="30" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-3050920-2538288.png?f=avif&w=256" width="30" title="Windows">](microsoft.com)
-[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linux-2752134-2284951.png?f=avif&w=256" width="30" title="Linux">](Linux.org)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-3251603-2724650.png?f=avif&w=256" width="50" title="VS Code">](https://code.visualstudio.com)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-excel-2-190764.png?f=avif&w=256" width="50" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/120px-2023_Obsidian_logo.svg.png" width="50" title="Obsidian">](https://obsidian.md)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=256" width="50" title="GitHub">]()
+[<img src="https://www.gitkraken.com/wp-content/uploads/2021/12/gitkraken-icon-stencil-color.svg" width="50" title="GitKraken">](https://www.gitkraken.com)
+[<img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" width="80" title="Bubble.io">](bubble.io)
+[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/terminal-4887951-4072487.png?f=avif&w=256" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-3050920-2538288.png?f=avif&w=256" width="50" title="Windows">](microsoft.com)
+[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linux-2752134-2284951.png?f=avif&w=256" width="50" title="Linux">](Linux.org)
 
 ## 🎓 Certificados:
 
