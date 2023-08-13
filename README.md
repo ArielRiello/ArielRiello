@@ -60,33 +60,10 @@ Cursos Concluidos:
 
 [<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="70">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
 
-## 💾 Mapeamento de Repositórios 
-
-Banco de Dados
-* SQL - Em construção...
-
-C/C++
-* CodeMiners-2nd Fortaleza dos CodeMiners - [Repositório](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
-
-Java
-* Bootcampo Banco PAN Java Developer - [Repositório](https://github.com/ArielRiello/Bootcamp_Banco_PAN_Java_Developer)
-
-JavaScript
-* CodeCamp - O Vale do Jacaranda Dourado - [Repositório](https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners)
-
-Power BI
-* Formação Power BI Analyst - [Repositório](https://github.com/ArielRiello/Formacao_Power_BI_Analyst)
-            
-Python
-* Formação Python Developer - [Repositório ](https://github.com/ArielRiello/Formacao_Python_Developer_DIO)
-
 ## ⚙️ Repositórios de Projetos
 
-* Java
-    * [Lista_de_Animes](https://github.com/ArielRiello/Projeto_Lista_de_Animes_Java)
-
-* Python
-    * [Bot_DIscord_SoL](https://github.com/ArielRiello/Discord_Bot_SoL)
+* [Lista_de_Animes](https://github.com/ArielRiello/Projeto_Lista_de_Animes_Java)
+* [Bot_DIscord_SoL](https://github.com/ArielRiello/Discord_Bot_SoL)
 
 <div style="width: 200px;">
   <a href="https://github.com/ArielRiello/github-readme-stats">
