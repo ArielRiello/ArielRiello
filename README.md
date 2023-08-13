@@ -59,7 +59,6 @@ CodeCamps Concluidos:
 Cursos Concluidos: 
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=avif&w=256" width="48" title="Python">
-
 [<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="48">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
 
 ## ⚙️ Repositórios de Projetos
