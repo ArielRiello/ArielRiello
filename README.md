@@ -24,7 +24,7 @@ E cursando de Tecnologia da Informação (TI) na universidade:
 Linguagens de Programação e Marcação
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=avif&w=256" width="50" title="Python">](https://www.python.org)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-22-225997.png?f=avif&w=256" width="50" title="Java">](www.java.com)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-22-225997.png?f=avif&w=256" width="50" title="Java">](https://www.java.com/pt-BR/)
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=avif&w=256" width="50" title="Java Script">](https://www.javascript.com)
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/markdown-4887934-4072470.png?f=avif&w=256" width="50" title="Markdown">](https://www.markdownguide.org)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-html-file-2330569-1950410.png?f=avif&w=256" width="50" title="HTML">](https://html.com)
@@ -37,16 +37,20 @@ Frameworks, Plataformas e Outros
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/120px-2023_Obsidian_logo.svg.png" width="50" title="Obsidian">](https://obsidian.md)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=256" width="50" title="GitHub">]()
 [<img src="https://www.gitkraken.com/wp-content/uploads/2021/12/gitkraken-icon-stencil-color.svg" width="50" title="GitKraken">](https://www.gitkraken.com)
-[<img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" width="80" title="Bubble.io">](bubble.io)
+[<img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" width="80" title="Bubble.io">](https://www.java.com/pt-BR/)
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/terminal-4887951-4072487.png?f=avif&w=256" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-3050920-2538288.png?f=avif&w=256" width="50" title="Windows">](microsoft.com)
-[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linux-2752134-2284951.png?f=avif&w=256" width="50" title="Linux">](Linux.org)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-3050920-2538288.png?f=avif&w=256" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)
+[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linux-2752134-2284951.png?f=avif&w=256" width="50" title="Linux">](https://www.linux.org)
 
 ## 🎓 Certificados:
 
-Formações em andamento:
+Em andamento:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" width="65">](https://web.dio.me/track/formacao-sql-db-specialist)
+[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" width="65">](https://web.dio.me/track/formacao-sql-db-specialist)
+
+Formações Concluidas:
+
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)
 
 Bootcamps Concluidos:
 
