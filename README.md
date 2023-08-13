@@ -54,7 +54,7 @@ Bootcamps Concluidos:
 
 CodeCamps Concluidos:
 
-[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](https://www.dio.me/certificate/D7B1982C/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="60">](https://www.dio.me/certificate/AC2DBFF4/share)
+[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](https://www.dio.me/certificate/D7B1982C/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="100">](https://www.dio.me/certificate/AC2DBFF4/share)
 
 Cursos Concluidos: 
 
