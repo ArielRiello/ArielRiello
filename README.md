@@ -41,6 +41,7 @@ Frameworks, Plataformas e Outros
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/terminal-4887951-4072487.png?f=avif&w=256" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-3050920-2538288.png?f=avif&w=256" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linux-2752134-2284951.png?f=avif&w=256" width="50" title="Linux">](https://www.linux.org)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-openai-7520991-7196859.png?f=avif&w=256" width="30" title="CSS">](https://openai.com)
 
 ## 🎓 Certificados:
 
