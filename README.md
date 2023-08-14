@@ -44,13 +44,9 @@ Frameworks, Plataformas e Outros
 
 ## 🎓 Certificados:
 
-Em andamento:
-
-[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" width="65">](https://web.dio.me/track/formacao-sql-db-specialist)
-
 Formações Concluidas:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)[<img src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png" width="65">](https://www.dio.me/certificate/DC23F65D/share)
 
 Bootcamps Concluidos:
 
