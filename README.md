@@ -11,7 +11,7 @@
 
 Atualmente Estagiário de Desenvolvimento na empresa:
 
-[<img src="https://media.licdn.com/dms/image/C4E0BAQEg1SiKVbzK7w/company-logo_100_100/0/1592496983315?e=1700697600&v=beta&t=IVc9dEPE59ZsEmoOp01dVXwF77ehPWwYGcpdXTMLJkQ" width="300" height="50">](https://www.inovacoderfid.com)
+[<img src="https://media.licdn.com/dms/image/C4E0BAQEg1SiKVbzK7w/company-logo_100_100/0/1592496983315?e=1700697600&v=beta&t=IVc9dEPE59ZsEmoOp01dVXwF77ehPWwYGcpdXTMLJkQ" width="100" height="50">](https://www.inovacoderfid.com)
 
 E cursando de Tecnologia da Informação (TI) na universidade:
 
