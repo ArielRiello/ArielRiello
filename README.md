@@ -11,7 +11,7 @@
 
 Atualmente Estagiário de Desenvolvimento na empresa:
 
-[<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/309807767_525126439617842_5462170448474330337_n.png?stp=dst-png_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=rmaCC88n1ukAX8r4EXb&_nc_ht=scontent-gru2-2.xx&oh=00_AfDYXq2lzbYJeQUyk47U8W2IQqWj0GxHVohEkfgQZwY_pQ&oe=64F3ECFA" width="300" height="50">](https://www.inovacoderfid.com)
+[<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/309807767_525126439617842_5462170448474330337_n.png?stp=dst-png_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=rmaCC88n1ukAX8r4EXb&_nc_ht=scontent-gru2-2.xx&oh=00_AfDYXq2lzbYJeQUyk47U8W2IQqWj0GxHVohEkfgQZwY_pQ&oe=64F3ECFA" width="300" height="80">](https://www.inovacoderfid.com)
 
 E cursando de Tecnologia da Informação (TI) na universidade:
 
