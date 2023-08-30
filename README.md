@@ -66,6 +66,6 @@ Cursos Concluidos:
 * [Lista_de_Animes](https://github.com/ArielRiello/Projeto_Lista_de_Animes_Java)
 * [Bot_DIscord_SoL](https://github.com/ArielRiello/Discord_Bot_SoL)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielRiello&layout=compact)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArielRiello&theme=react&line_height=40&hide=css"/> </a>
 
 ---
