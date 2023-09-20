@@ -9,7 +9,7 @@
 
 ## 🏷️ Sobre mim:
 
-|Estagiário de Desenvolvimento:|Tecnologia da Informação (TI):|
+|Estagiário de Desenvolvimento|Tecnologia da Informação (TI)|
 |--|--|
 |[<img src="img\inova_logo.jpeg" width="300" height="100">](https://www.inovacoderfid.com)|[<img src="img\univesp.png" width="300" height="100">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)|
 
@@ -41,21 +41,9 @@ Frameworks, Plataformas e Outros
 
 ## 🎓 Certificados:
 
-Formações Concluidas:
-
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)[<img src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png" width="65">](https://www.dio.me/certificate/DC23F65D/share)
-
-Bootcamps Concluidos:
-
-[<img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70">](https://www.dio.me/certificate/4233EB4D/share)
-
-CodeCamps Concluidos:
-
-[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="80">](https://www.dio.me/certificate/D7B1982C/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="70">](https://www.dio.me/certificate/AC2DBFF4/share)
-
-Cursos Concluidos: 
-
-[<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="100">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)
+|Formações Concluidas|Bootcamps Concluidos|CodeCamps Concluidos|Cursos Concluidos|
+|--|--|--|--|
+|[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)[<img src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png" width="65">](https://www.dio.me/certificate/DC23F65D/share)|[<img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70">](https://www.dio.me/certificate/4233EB4D/share)|[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="80">](https://www.dio.me/certificate/D7B1982C/share)[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="70">](https://www.dio.me/certificate/AC2DBFF4/share)|[<img src="https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg" width="100">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)|
 
 ## ⚙️ Repositórios de Projetos
 
