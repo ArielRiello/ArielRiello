@@ -11,11 +11,11 @@
 
 Atualmente Estagiário de Desenvolvimento na empresa:
 
-[<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/309807767_525126439617842_5462170448474330337_n.png?stp=dst-png_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=rmaCC88n1ukAX8r4EXb&_nc_ht=scontent-gru2-2.xx&oh=00_AfDYXq2lzbYJeQUyk47U8W2IQqWj0GxHVohEkfgQZwY_pQ&oe=64F3ECFA" width="300" height="100">](https://www.inovacoderfid.com)
+[<img src="img\inova_logo.jpeg" width="300" height="100">](https://www.inovacoderfid.com)
 
 E cursando de Tecnologia da Informação (TI) na universidade:
 
-[<img src="https://univesp.br/sites/58f6506869226e9479d38201/theme/images/logo-univesp.png?1643802139" width="160">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)
+[<img src="img\univesp.png" width="300">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)
 
 *Uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
