@@ -9,13 +9,9 @@
 
 ## 🏷️ Sobre mim:
 
-Atualmente Estagiário de Desenvolvimento na empresa:
-
-[<img src="img\inova_logo.jpeg" width="300" height="100">](https://www.inovacoderfid.com)
-
-E cursando de Tecnologia da Informação (TI) na universidade:
-
-[<img src="img\univesp.png" width="300">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)
+|Estagiário de Desenvolvimento:|Tecnologia da Informação (TI):|
+|--|--|
+|[<img src="img\inova_logo.jpeg" width="300" height="100">](https://www.inovacoderfid.com)|[<img src="img\univesp.png" width="300" height="100">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)|
 
 *Uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
