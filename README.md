@@ -15,7 +15,7 @@
 
 *Uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
-## 💻 Familiaridade com:
+## 🧠 Conhecimentos:
 
 |IDE|Linguagens de Programação|Marcação|
 |--|--|--|
