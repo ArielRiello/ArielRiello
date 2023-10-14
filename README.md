@@ -17,9 +17,9 @@
 
 ## 🧠 Conhecimentos:
 
-|IDE|Linguagens de Programação|Marcação|
-|--|--|--|
-|[<img src="img\vsc.png" width="50" title="VS Code">](https://code.visualstudio.com)|[<img src="img\py.png" width="50" title="Python">](https://www.python.org)[<img src="img\java.png" width="50" title="Java">](https://www.java.com/pt-BR/)[<img src="img\js.png" width="50" title="Java Script">](https://www.javascript.com)|[<img src="img\md.png" width="50" title="Markdown">](https://www.markdownguide.org)[<img src="img\html.png" width="50" title="HTML">](https://html.com)[<img src="img\css.png" width="50" title="CSS">](https://www.css3.com)|
+|IDE|Linguagens de Programação|Marcação|Banco de Dados|
+|--|--|--|--|
+|[<img src="img\vsc.png" width="50" title="VS Code">](https://code.visualstudio.com)|[<img src="img\py.png" width="50" title="Python">](https://www.python.org)[<img src="img\java.png" width="50" title="Java">](https://www.java.com/pt-BR/)[<img src="img\js.png" width="50" title="Java Script">](https://www.javascript.com)|[<img src="img\md.png" width="50" title="Markdown">](https://www.markdownguide.org)[<img src="img\html.png" width="50" title="HTML">](https://html.com)[<img src="img\css.png" width="50" title="CSS">](https://www.css3.com)|[<img src="img\sql.png" width="50" title="SQL">](https://www.oracle.com/br/database/technologies/appdev/sql.html)[<img src="img\sqlite.png" width="50" title="SQLite">](https://www.sqlite.org/index.html)|
 
 |Ferramentas|
 |--|
