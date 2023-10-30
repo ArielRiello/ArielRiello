@@ -21,9 +21,9 @@
 |--|--|--|--|
 |[<img src="img\vsc.png" width="50" title="VS Code">](https://code.visualstudio.com)|[<img src="img\py.png" width="50" title="Python">](https://www.python.org)[<img src="img\java.png" width="50" title="Java">](https://www.java.com/pt-BR/)[<img src="img\js.png" width="50" title="Java Script">](https://www.javascript.com)|[<img src="img\md.png" width="50" title="Markdown">](https://www.markdownguide.org)[<img src="img\html.png" width="50" title="HTML">](https://html.com)[<img src="img\css.png" width="50" title="CSS">](https://www.css3.com)|[<img src="img\sql.png" width="50" title="SQL">](https://www.oracle.com/br/database/technologies/appdev/sql.html)[<img src="img\sqlite.png" width="50" title="SQLite">](https://www.sqlite.org/index.html)|
 
-|Ferramentas|
-|--|
-|[<img src="img/excel.png" width="50" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="50" title="GitHub">]()[<img src="img\gitkraken.png" width="50" title="Git Kraken">](https://www.gitkraken.com)[<img src="img/bubble.png" width="80" title="Bubble.io">](https://bubble.io/home)[<img src="img/cmd.png" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img/win.png" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)[<img src="img/linux.png" width="50" title="Linux">](https://www.linux.org)[<img src="img\chatgpt.png" width="50" title="ChatGPT">](https://openai.com/chatgpt)|
+|Ferramentas|APIs|
+|--|--|
+|[<img src="img/excel.png" width="50" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="50" title="GitHub">]()[<img src="img/git.png" width="50" title="Git">](https://git-scm.com)[<img src="img\gitkraken.png" width="50" title="Git Kraken">](https://www.gitkraken.com)[<img src="img/bubble.png" width="80" title="Bubble.io">](https://bubble.io/home)[<img src="img/cmd.png" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img/win.png" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)[<img src="img/linux.png" width="50" title="Linux">](https://www.linux.org)[<img src="img\chatgpt.png" width="50" title="ChatGPT">](https://openai.com/chatgpt)|[<img src="img/hubspot.png" width="50" title="HubSpot">](https://www.hubspot.com)|
 
 ## 🎓 Certificados:
 
