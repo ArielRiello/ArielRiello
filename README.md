@@ -23,7 +23,7 @@
 
 |Ferramentas|APIs|
 |--|--|
-|[<img src="img/excel.png" width="50" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="50" title="GitHub">]()[<img src="img/git.png" width="50" title="Git">](https://git-scm.com)[<img src="img\gitkraken.png" width="50" title="Git Kraken">](https://www.gitkraken.com)[<img src="img/bubble.png" width="80" title="Bubble.io">](https://bubble.io/home)[<img src="img/cmd.png" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img/win.png" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)[<img src="img/linux.png" width="50" title="Linux">](https://www.linux.org)[<img src="img\chatgpt.png" width="50" title="ChatGPT">](https://openai.com/chatgpt)|[<img src="img/hubspot.png" width="50" title="HubSpot">](https://www.hubspot.com)|
+|[<img src="img/excel.png" width="50" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="50" title="GitHub">]()[<img src="img/git.png" width="50" title="Git">](https://git-scm.com)[<img src="img/cmd.png" width="50" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img/win.png" width="50" title="Windows">](https://learn.microsoft.com/pt-br/)[<img src="img/linux.png" width="50" title="Linux">](https://www.linux.org)[<img src="img\chatgpt.png" width="50" title="ChatGPT">](https://openai.com/chatgpt)|[<img src="img/hubspot.png" width="50" title="HubSpot">](https://www.hubspot.com)[<img src="img\chatgpt.png" width="50" title="ChatGPT">](https://openai.com/chatgpt)|
 
 ## 🎓 Certificados:
 
