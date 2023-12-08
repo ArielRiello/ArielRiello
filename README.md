@@ -29,7 +29,7 @@
 
 |Formações Concluidas|Bootcamps Concluidos|CodeCamps Concluidos|Cursos Concluidos|
 |--|--|--|--|
-|[<img src="img/fpydev.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)[<img src="img/fgpt.png" width="65">](https://www.dio.me/certificate/DC23F65D/share)|[<img src="img\bifpdz.png" width="60">](https://www.dio.me/certificate/A68A2AAE/share)[<img src="img\bcjavabp.png" width="70">](https://www.dio.me/certificate/4233EB4D/share)[<img src="img\cddpybs.png" width="65">](https://www.dio.me/certificate/92565078/share)|[<img src="img/codecamp1.png" width="80">](https://www.dio.me/certificate/D7B1982C/share)[<img src="img/codecamp2.png" width="70">](https://www.dio.me/certificate/AC2DBFF4/share)|[<img src="img\python_pt1.png" width="200">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)|
+|[<img src="img/fpydev.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)[<img src="img/fgpt.png" width="65">](https://www.dio.me/certificate/DC23F65D/share)|[<img src="img\bifpdz.png" width="60">](https://www.dio.me/certificate/A68A2AAE/share)[<img src="img\bcjavabp.png" width="70">](https://www.dio.me/certificate/4233EB4D/share)[<img src="img\cddpybs.png" width="65">](https://www.dio.me/certificate/92565078/share)[<img src="img\bcifpcd.png" width="60">](https://www.dio.me/certificate/B8661910/share)|[<img src="img/codecamp1.png" width="80">](https://www.dio.me/certificate/D7B1982C/share)[<img src="img/codecamp2.png" width="70">](https://www.dio.me/certificate/AC2DBFF4/share)|[<img src="img\python_pt1.png" width="200">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)|
 
 ## ⚙️ Repositórios de Projetos
 
