@@ -9,7 +9,7 @@
 
 ## 🏷️ Sobre mim:
 
-|Estagiário de Desenvolvimento|Tecnologia da Informação (TI)|
+|Desenvolvedor de Software|Tecnologia da Informação (TI)|
 |--|--|
 |[<img src="img\inova_logo.jpeg" width="300" height="100">](https://www.inovacoderfid.com)|[<img src="img\univesp.png" width="300" height="100">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)|
 
