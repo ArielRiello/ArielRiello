@@ -9,7 +9,7 @@
 
 ## 🏷️ Sobre mim:
 
-|Estagiário de Desenvolvimento|Tecnologia da Informação (TI)|
+|Desenvolvedor de Software|Tecnologia da Informação (TI)|
 |--|--|
 |[<img src="img\inova_logo.jpeg" width="300" height="100">](https://www.inovacoderfid.com)|[<img src="img\univesp.png" width="300" height="100">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)|
 
@@ -27,19 +27,15 @@
 
 ## 🎓 Certificados:
 
-|Bootcamps Concluidos|
-|--|
-|[<img src="img\bifpdz.png" width="60">](https://www.dio.me/certificate/A68A2AAE/share)[<img src="img\bcjavabp.png" width="70">](https://www.dio.me/certificate/4233EB4D/share)[<img src="img\cddpybs.png" width="65">](https://www.dio.me/certificate/92565078/share)[<img src="img\bcifpcd.png" width="60">](https://www.dio.me/certificate/B8661910/share)|
-
-|Formações Concluidas|CodeCamps Concluidos|Cursos Concluidos|
-|--|--|--|
-|[<img src="img/fpydev.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)[<img src="img/fgpt.png" width="65">](https://www.dio.me/certificate/DC23F65D/share)|[<img src="img/codecamp1.png" width="80">](https://www.dio.me/certificate/D7B1982C/share)[<img src="img/codecamp2.png" width="70">](https://www.dio.me/certificate/AC2DBFF4/share)|[<img src="img\python_pt1.png" width="200">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)|
+|Bootcamps Concluidos|Formações Concluidas|CodeCamps Concluidos|Cursos Concluidos|
+|--|--|--|--|
+|[<img src="img\bifpdz.png" width="60">](https://www.dio.me/certificate/A68A2AAE/share)[<img src="img\bcjavabp.png" width="70">](https://www.dio.me/certificate/4233EB4D/share)[<img src="img\cddpybs.png" width="65">](https://www.dio.me/certificate/92565078/share)[<img src="img\bcifpcd.png" width="60">](https://www.dio.me/certificate/B8661910/share)|[<img src="img/fpydev.png" width="70">](https://www.dio.me/certificate/BACD5E5F/share)[<img src="img/fgpt.png" width="65">](https://www.dio.me/certificate/DC23F65D/share)|[<img src="img/codecamp1.png" width="80">](https://www.dio.me/certificate/D7B1982C/share)[<img src="img/codecamp2.png" width="70">](https://www.dio.me/certificate/AC2DBFF4/share)|[<img src="img\python_pt1.png" width="100">](https://coursera.org/share/9fee9c3633a1b0899e7343501e989d8c)|
 
 ## ⚙️ Repositórios de Projetos
 
 * [Bot_DIscord_SoL](https://github.com/ArielRiello/Discord_Bot_SoL)
 * [My_Review_List_Project](https://github.com/ArielRiello/My_Review_List_Project)
-* [Projeto Autenticacao Google Firebase](https://github.com/ArielRiello/Projeto-Autenticacao-Google-Firebase)
+* [Modelos-de-Autenticacao ](https://github.com/ArielRiello/Modelos-de-Autenticacao)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArielRiello&theme=dark&line_height=40&hide=css&layout=compact"/> </a>
 
