@@ -26,7 +26,7 @@
 
 |Ferramentas|Bibliotecas|
 |--|--|
-[<img src="img/excel.png" width="30" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="30" title="GitHub">]()[<img src="img/git.png" width="30" title="Git">](https://git-scm.com)[<img src="img\gitkraken.png" width="30" title="Git Kraken">](https://www.gitkraken.com/)[<img src="img/cmd.png" width="30" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img\chatgpt.png" width="30" title="ChatGPT">](https://openai.com/chatgpt)| [<img src="img/flask.png" width="60">](https://flask.palletsprojects.com/en/3.0.x/)[<img src="img\tkinter.png" width="30" title="Tkinter">](https://docs.python.org/pt-br/3/library/tkinter.html)
+[<img src="img/excel.png" width="30" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="30" title="GitHub">]()[<img src="img/git.png" width="30" title="Git">](https://git-scm.com)[<img src="img\gitkraken.png" width="30" title="Git Kraken">](https://www.gitkraken.com/)[<img src="img/cmd.png" width="30" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img\chatgpt.png" width="30" title="ChatGPT">](https://openai.com/chatgpt)| [<img src="img/flask.png" width="60">](https://flask.palletsprojects.com/en/3.0.x/)[<img src="img\tkinter.png" width="30" title="Tkinter">](https://docs.python.org/pt-br/3/library/tkinter.html)[<img src="img/pandas.png" width="30" title="Pandas">](https://pandas.pydata.org/)|
 
 
 ### 🎓 Certificados:
