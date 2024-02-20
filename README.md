@@ -5,8 +5,7 @@
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/riello_programmer?tab=skills)
 <a href="mailto:riello.programmer@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://visitcount.itsvg.in">
+</a><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ArielRiello&label=Profile%20Views&color=12&icon=3&pretty=false" />
 </a>
 
