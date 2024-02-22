@@ -63,8 +63,4 @@
   </tr>
 </table>
 
-</a><a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ArielRiello&label=Profile%20Views&color=12&icon=3&pretty=false" />
-</a>
-
 ---
