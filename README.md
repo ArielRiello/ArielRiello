@@ -50,6 +50,7 @@
       <a href="https://github.com/ArielRiello/CodeCamp_Fortaleza_dos_CodeMiners">Codecamp | 2nd Edition</a><br>
       <a href="https://github.com/ArielRiello/Bootcamp_Banco_PAN_Java_Developer">Banco PAN Java Developer</a><br>
       <a href="https://github.com/ArielRiello/Formacao_Python_Developer_DIO">Formação Python Developer</a><br>
+      <a href="https://github.com/ArielRiello/Geracao_Tech_Unimed-BH_Ciencia_de_Dados">Geração Tech Unimed-BH Ciência de Dados</a><br> 
       <a href="https://github.com/ArielRiello/Potencia_Tech_iFood_Programacao_do_Zero">Potência Tech iFood - Programação do Zero</a><br>
       <a href="https://github.com/ArielRiello/Santander_Bootcamp_Ciencia_de_Dados_Python">Santander Bootcamp 2023 - Ciência de Dados com Python</a><br>
       <a href="https://github.com/ArielRiello/HarvardX_CS50W">HarvardX CS50's Web Programming with Python and JavaScript</a><br>
