@@ -13,7 +13,7 @@
 |--|--|
 |[<img src="img\inovacode.jpeg" width="400" height="200">](https://www.inovacoderfid.com)|[<img src="img\Ferreira_Riello_logo.png" width="400" height="200">](https://www.ferreiraeriello.com.br)|
 
-*Uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
+*Uso o GitHub para documentar estudos e projetos voltados para o aprendizado / Utilizo repositórios privados para trabalho.*
 
 
 ### 🧠 Conhecimentos:
