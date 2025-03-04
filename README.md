@@ -9,9 +9,9 @@
 
 ### 🏷️ Sobre mim:
 
-|Desenvolvedor de Software|Tecnologia da Informação (TI)|
+| Desenvolvedor de Software / Engenheiro de Dados | Desenvolvedor de Software / Sócio Proprietário |
 |--|--|
-|[<img src="img\inova_logo.jpeg" width="300" height="100">](https://www.inovacoderfid.com)|[<img src="img\univesp.png" width="300" height="100">](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)|
+|[<img src="img\inovacode.jpeg" width="400" height="200">](https://www.inovacoderfid.com)|[<img src="img\Ferreira_Riello_logo.png" width="400" height="200">](https://www.ferreiraeriello.com.br)|
 
 *Uso o GitHub para documentação de estudos e projetos voltados para o aprendizado*
 
@@ -25,6 +25,7 @@
 |Ferramentas|Bibliotecas|
 |--|--|
 |[<img src="img/excel.png" width="30" title="Excel">](https://www.microsoft.com/pt-br/microsoft-365/p/excel/CFQ7TTC0HR4R)[<img src="img/github.png" width="30" title="GitHub">]()[<img src="img/git.png" width="30" title="Git">](https://git-scm.com)[<img src="img/cmd.png" width="30" title="CMD">](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)[<img src="img\chatgpt.png" width="30" title="ChatGPT">](https://openai.com/chatgpt)|<!-- BIBLIOTECAS -->[<img src="img/flask.png" width="60" title="Flask">](https://flask.palletsprojects.com/en/3.0.x/)[<img src="img\tkinter.png" width="30" title="Tkinter">](https://docs.python.org/pt-br/3/library/tkinter.html)[<img src="img/pandas.png" width="30" title="Pandas">](https://pandas.pydata.org/)|
+
 
 ### 🎓 Certificados:
 
