@@ -11,7 +11,7 @@
 
 | Desenvolvedor de Software / Engenheiro de Dados | Desenvolvedor de Software / Sócio Proprietário |
 |--|--|
-|[<img src="img\inovacode.jpeg" width="400" height="200">](https://www.inovacoderfid.com)|[<img src="img\Ferreira_Riello_logo.png" width="400" height="200">](https://www.ferreiraeriello.com.br)|
+|[<img src="img/inovacode.jpeg" width="400" height="200">](https://www.inovacoderfid.com)|[<img src="img/Ferreira_Riello_logo.png" width="400" height="200">](https://www.ferreiraeriello.com.br)|
 
 *Uso o GitHub para documentar estudos e projetos voltados para o aprendizado / Utilizo repositórios privados para trabalho.*
 
@@ -44,5 +44,6 @@
 ### 🚂 Visitantes
 
 ![Contador de visitas](https://moe-counter.glitch.me/get/@ArielRiello?theme=rule34)
+
 
 ---
