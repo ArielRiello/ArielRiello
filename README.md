@@ -36,6 +36,9 @@
 |CodeCamps Concluidos|
 |--|
 [<img src="img/codecamp1.png" width="60">](https://www.dio.me/certificate/D7B1982C/share)[<img src="img/codecamp2.png" width="50">](https://www.dio.me/certificate/AC2DBFF4/share)|
+
+---
+
 [Repositórios de Certificados e Cursos](https://github.com/ArielRiello/Certificados_Ariel_Riello)
 
 ---
